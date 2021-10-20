@@ -166,6 +166,3 @@ console.log(resposta_q9);
 
 resposta_q10 = resposta_qT.questao_10([6, 8], [8, 9]);
 console.log(resposta_q10);
-
-
-
